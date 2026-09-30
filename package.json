@@ -1,0 +1,13 @@
+{
+  "name": "robot-spec-comparison-tool",
+  "version": "1.0.0",
+  "description": "Compare specs of real-world robots side by side: Express backend, Bootstrap frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
